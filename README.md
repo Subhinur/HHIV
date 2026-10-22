@@ -8,7 +8,7 @@ A responsive, lightweight React dashboard designed for sales teams to monitor or
 
 | Requirement | Details / Link |
 | :--- | :--- |
-| **1. Deployed Live URL** | `[Insert your deployed public URL here, e.g. https://sales-order-monitor.vercel.app]` |
+| **1. Deployed Live URL** | `https://hhiv-sales-monitor.web.app` |
 | **2. Public Repository URL**| `https://github.com/Subhinur/HHIV` |
 | **3. Architecture Notes** | React 19 + Vite single-page application; zero-dependency vanilla CSS; native data table + mobile card layout. |
 | **4. AI Disclosure & Testing**| Scaffolded and verified using AI assistance (Codex/Antigravity); tested via native `node:test` API suite, Vite production build, and comprehensive cross-viewport browser validation. |
